@@ -15,4 +15,4 @@ This project developed a machine learning solution for predicting gold recovery 
 🕵🏽‍♀️ Anomaly Detection
 🧼 Data Cleaning and Preprocessing
 ## Installation & Usage
-* This project uses pandas, numpy, RandomForestRegressor, MultiOutputRegressor, LinearRegression, mean_squared_error, mean_absolute_error, make_scorer, matplotlib.pyplot, shuffle, StandardScaler, seaborn, SimpleImputer, cross_val_score, KFold, and RandomizedSearchCV.  It requires python 3.9.6.
+* This project uses pandas, numpy, RandomForestRegressor, MultiOutputRegressor, LinearRegression, mean_squared_error, mean_absolute_error, make_scorer, matplotlib.pyplot, shuffle, StandardScaler, seaborn, SimpleImputer, cross_val_score, KFold, and RandomizedSearchCV.  It requires python 3.9.6.  There is one additional file containing the full, unsplit test set that I was unable to upload due to upload limitations.
